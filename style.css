@@ -39,11 +39,11 @@ body{
 }
 
 @media(min-width:768px){
-    body {
+    /*body {
         background-color:blue;
     }
 
-}
+}*/
 
 
 @media(min-width:960px){
