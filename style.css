@@ -3,6 +3,10 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
+.pizzas{
+    display:flex;
+}
+
 .pizza {
     border: 1px solid; 
     padding:1em;
@@ -46,8 +50,5 @@ body{
     /*body {
        /* background-color:blue;
     }*/
-    .pizzas{
-        display:flex;
-    }
-    
+  
 }
