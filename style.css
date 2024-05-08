@@ -8,14 +8,14 @@ body{
 }
 
 .pizza {
-    border: 1px solid; 
+    border: 1px solid #e0e1dd; 
     padding:1em;
     margin:1em;
-    /*margin-left: 0.5em;*/
+    margin-left: 0.5em;
     margin-bottom: 0.5em;
     border-radius: 1em;
-    /*width:20em;*/
-    display:block;
+    width:20em;
+    display:inline-block;
 }
 
 .medium_pizza{
@@ -41,9 +41,9 @@ body{
 @media(min-width:768px){
     /*body {
         background-color:blue;
-    }
+    }*/
 
-}*/
+}
 
 
 @media(min-width:960px){
