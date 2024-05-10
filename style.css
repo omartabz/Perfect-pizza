@@ -39,12 +39,6 @@ body{
     flex-direction: column;
     
 }
-/*.contact{
-    align-items:end
-    width:70%;
-    justify-content:space-inbet
-
-}*/
 
 @media(min-width:768px){
     /*body {
