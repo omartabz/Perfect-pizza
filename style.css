@@ -35,8 +35,7 @@ body{
 .contact_us{
     background-color:#99d98c;
     display: flex;
-    align-items: flex-end;
-    flex-direction: column;
+    
     
 }
 
